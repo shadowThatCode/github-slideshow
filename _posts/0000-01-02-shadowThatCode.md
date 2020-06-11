@@ -5,9 +5,8 @@ title: "Welcome to our slide deck!"
 
 Use the right arrow to begin!
 
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+"hello"
+"I don't really know what I'm doing"
+"Just doing random thing on this"
+"not to sure if this is right"
+"said something about chaning five lines"
